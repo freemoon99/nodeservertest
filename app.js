@@ -7,7 +7,7 @@ const data = require('../nodeservertest/data');
 app.use(bodyParser.json());
 
 app.use(cors());
-app.get('/test', (req, res) => {
+app.get('/', (req, res) => {
   res.send('good connect!');
 })
 
