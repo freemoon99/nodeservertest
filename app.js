@@ -16,7 +16,7 @@ const booth = [
     "name" : "동아리명1",
     "category" : "카테고리1",
     "location" : "A1",
-    "img": "https://picsum.photos/250/80​",
+    "img": "https://picsum.photos/250/80",
     "introduction": "한줄소개 1"
   },
   {
