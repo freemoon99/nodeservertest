@@ -16,7 +16,7 @@ const booth = [
     "name" : "동아리명1",
     "category" : "카테고리1",
     "location" : "A1",
-    "img": "https://picsum.photos/id/237/200/300",
+    "img": "https://picsum.photos/250/80​",
     "introduction": "한줄소개 1"
   },
   {
@@ -24,7 +24,7 @@ const booth = [
     "name" : "동아리명2",
     "category" : "카테고리2",
     "location" : "A2",
-    "img": "https://picsum.photos/id/237/200/300",
+    "img": "https://picsum.photos/250/80",
     "introduction": "한줄소개 2"
   },
   {
@@ -32,7 +32,7 @@ const booth = [
     "name" : "동아리명3",
     "category" : "카테고리3",
     "location" : "A3",
-    "img": "https://picsum.photos/id/237/200/300",
+    "img": "https://picsum.photos/250/80",
     "introduction": "한줄소개 3"
   }
 ];
